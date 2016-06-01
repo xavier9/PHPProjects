@@ -1,0 +1,16 @@
+{
+    "name": "xavier/my-site",
+    "require": {
+        "smalot/pdfparser": "*",
+        "setasign/fpdi": "1.6.1",
+        "setasign/fpdf": "1.8",
+        "tecnickcom/tcpdf": "6.2.12",
+        "setasign/fpdi-fpdf": "1.6.1",
+        "itbz/fpdi": "~1.0",
+        "setasign/fpdi-tcpdf": "1.*",
+        "phpmailer/phpmailer": "^5.2"
+    },
+    "repositories": {
+        "packagist": { "url": "https://packagist.org", "type": "composer" }
+    }
+}
